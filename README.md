@@ -147,7 +147,7 @@ The NAT Network provides a shared virtual network for VMs connected to it. DHCP 
 
 Kali Linux is started as a virtual machine in the lab environment. The supplied screenshot shows the Kali desktop loaded successfully.
 
-![Kali Linux desktop](screenshots/03-kali-linux-desktop.webp)
+![Kali Linux desktop](screenshots/03-kali-linux-desktop.png)
 
 *Figure 2 – Kali Linux desktop running in the virtual environment.*
 
