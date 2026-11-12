@@ -137,7 +137,7 @@ IPv6:       Disabled
 
 The NAT Network provides a shared virtual network for VMs connected to it. DHCP is enabled at the VirtualBox network level; the Kali connection screenshot separately shows a manually configured IPv4 profile.
 
-![VirtualBox NAT Network configuration](screenshots/02-network-configuration.png)
+![VirtualBox NAT Network configuration](screenshots/02-network-configuration.webp)
 
 *Figure 1 – VirtualBox NAT Network settings showing NatNetwork, 10.0.0.0/24 and DHCP enabled.*
 
@@ -147,7 +147,7 @@ The NAT Network provides a shared virtual network for VMs connected to it. DHCP 
 
 Kali Linux is started as a virtual machine in the lab environment. The supplied screenshot shows the Kali desktop loaded successfully.
 
-![Kali Linux desktop](screenshots/03-kali-linux-desktop.png)
+![Kali Linux desktop](screenshots/03-kali-linux-desktop.webp)
 
 *Figure 2 – Kali Linux desktop running in the virtual environment.*
 
@@ -168,7 +168,7 @@ Gateway:    10.0.0.1
 DNS:        8.8.8.8
 ```
 
-![Kali Linux manual IPv4 settings](screenshots/05-kali-ipv4-settings.png)
+![Kali Linux manual IPv4 settings](screenshots/05-kali-ipv4-settings.webp)
 
 *Figure 3 – NetworkManager IPv4 settings for the Kali wired connection.*
 
